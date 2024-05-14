@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @KatBalaur! I'm 21 and I live and work in Houston, TX. I’m interested in C and C++ as well as Python and JavaScript. I’m currently learning how to use GitHub and Visual Studio
